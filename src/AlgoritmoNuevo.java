@@ -16,6 +16,7 @@ public class AlgoritmoNuevo {
 			}
 			i++;
 		}while(copiaEnElExamen);
+		System.out.println("buena onda");
 		
 		
 	}
